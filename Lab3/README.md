@@ -1,4 +1,4 @@
-# regression-house-sale-price-prediction-challenge-310706038
+# regression-house-sale-price-prediction-challenge
 
 # 作法說明
 

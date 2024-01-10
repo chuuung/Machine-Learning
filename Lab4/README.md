@@ -1,4 +1,4 @@
-# trad-chinese-reading-comprehension-test-for-llms-310706038
+# trad-chinese-reading-comprehension-test-for-llms
 
 因大語言模型的空間龐大，因此此次報告未將模型部分上傳至github。
 
